@@ -5,7 +5,7 @@ Filename: singleexcel.py
 
 This script will allow you to check and list specific tags associated with the resources(AWS Services) in a region and save it as an CSV file and send as a mail.
 
-Resources used here:
+List of Resources filtered thru this script:
 - EC2:
   - InstanceID
   - AMI
