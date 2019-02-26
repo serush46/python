@@ -700,7 +700,7 @@ def send_mail(REGION):
         smtp_password = config.get('settings', 'smtp_password')
         smtp_port = config.get('settings', 'smtp_port')
         fromaddr = 'test@gmail.com'
-        toaddr = 'hello@yahoo.com'
+        toaddr = ['hello@yahoo.com', 'python3@hotmail.com']
         msg = MIMEMultipart()
         msg['From'] = fromaddr
         msg['To'] = ", ".join(toaddr)
