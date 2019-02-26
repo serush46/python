@@ -3,20 +3,20 @@
 ### 1. AWS Tagging 
 Filename: singleexcel.py
 
-This script will allow you to check and list specific tags associated with the resources(AWS Services) and save it in an Excel file and send as a mail.
+This script will allow you to check and list specific tags associated with the resources(AWS Services) in a region and save it as an CSV file and send as a mail.
 
 Resources used here:
 - EC2:
-  - Instances
+  - InstanceID
   - AMI
   - Security Group
   - ENI
 - EBS:
    - Volume
-   - Snapshot
+   - Snapshots
 - RDS:
-   - Snapshot
    - Instances
+   - Snapshots
 - VPC:
    - VPCID
    - SubnetID
