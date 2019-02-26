@@ -32,7 +32,7 @@ Install/Add the dependencies
 > csv                 
 > smtplib                 
 > logging                 
-> argparse 
+> argparse                    
 > email                 
 
 Provide the region name to execute the script.
