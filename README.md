@@ -23,16 +23,16 @@ Resources used here:
 
 #### Pre-requisites and Modules Required!
 Install the dependencies
-> Python3
-> pip3
-> boto3
-> configparser
-> sys
-> os
-> csv
-> smtplib
-> logging
-> argparse
+> Python3              
+> pip3            
+> boto3               
+> configparser                        
+> sys                 
+> os              
+> csv                 
+> smtplib                 
+> logging                 
+> argparse                  
 
 Provide the region name to execute the script.
 
