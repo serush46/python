@@ -22,7 +22,7 @@ Resources used here:
    - SubnetID
 
 #### Pre-requisites and Modules Required!
-Install the dependencies
+Install/Add the dependencies
 > Python3              
 > pip3            
 > boto3               
